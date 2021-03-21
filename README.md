@@ -28,8 +28,13 @@ _You **can** combine them_
    1. Item 3b
 
 # Images
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![AI test picture](https://github.com/JoepSelten/TestRepository/blob/main/TestPictureAI.jpg)
+<img src = "https://github.com/JoepSelten/TestRepository/blob/main/TestPictureAI.jpg" width = "300">
+
+
+
+
+
 
 # Links
 http://github.com - automatic!
